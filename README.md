@@ -8,4 +8,4 @@
 
 [Ej Limpieza Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo5.ipynb)
 
-[Avance 1-PIA-Equipo 5] (https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance1_PIA_Equipo5.ipynb)
+[Avance 1-PIA-Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance1_PIA_Equipo5.ipynb)
