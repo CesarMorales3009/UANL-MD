@@ -27,3 +27,5 @@
 ## Fase 3
 
 [Pia Mineria de Datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)
+
+[Poster](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Poster_Equipo_5.pdf)
